@@ -4,7 +4,7 @@ A REST API for managing a virtual zoo, using the Flask and Flask-RESTx framework
 
   
 
-Endpoints
+## Endpoints
 
 1. Animals
 
@@ -44,7 +44,7 @@ Endpoints
 
   
 
-Usage
+## Usage
 
 1. Clone the repository.
 
